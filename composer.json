@@ -1,5 +1,5 @@
 {
-    "name": "happyr/google-api-bundle",
+    "name": "social-places/google-api-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony2 Wrapper for the Google APIs Client Library for PHP",
     "keywords": ["Google API"],
